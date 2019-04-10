@@ -1,0 +1,4 @@
+requests>=2.20.1
+aiohttp>=3.4.4
+attrs>=18.2.0
+tornado>=6.0.1
